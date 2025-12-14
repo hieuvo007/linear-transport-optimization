@@ -1,0 +1,38 @@
+# --- MATLAB ---
+# Autosave files
+*.asv
+*.m~
+
+# Compiled files
+*.mex*
+*.p
+
+# Simulink cache/generation (if used in future)
+*.slxc
+*.sldd
+*.sldv
+slprj/
+
+# Octave workspace (if applicable)
+octave-workspace
+
+# --- OS System Files ---
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- Editor/IDE ---
+# VS Code
+.vscode/
+
+# --- Project Specific ---
+# Ignore local data files if you don't want to push them (Optional)
+# *.csv
+# *.xlsx
